@@ -3,6 +3,8 @@ Antminer S9
 
 This repository aims to collect information about Bitmain Antminer S9 control boards. These boards are Zynq 7010 based single board computers capable of running Linux.
 
+![AntMiner S9 V1.0 board photo](AntMiner_ControlBoard_XC7010_V1.0.png)
+
 The Antminer S9 control board has onboard flash, Fast Ethernet and SD card slot. It is particularly interesting as it has more GPIOs available than the EBAZ-4205 board.
 
 The plan is to provide several files ready to use with Petalinux build tools as well as Petalinux adjustments for the board, allowing different customizability levels:
